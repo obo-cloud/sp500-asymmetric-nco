@@ -1,0 +1,5 @@
+Configuration,Risk Metric,Regime Dynamic,CAGR (%),Max Drawdown (%),Calmar Ratio,Regime Switches,Monthly Turnover (%)
+"Plain NCO (Symmetric, No Regime)",Symmetric Covariance,Static (None),10.647358827154218,-14.481853828198094,0.735220708168066,0,26.993873695680403
+"Baseline Regime-NCO (Symmetric, Naive 1D-HMM)",Symmetric Covariance,Naive 1D-HMM (Unregularized),11.053888904653686,-21.80914981023739,0.5068463924927923,16,60.77585514139868
+"Asymmetric NCO (Downside, No Regime)",Downside Semi-Covariance,Static (None),11.086770233504485,-20.315010757514735,0.5457427695135909,0,28.236038113820744
+"Proposed Asymmetric Sticky-NCO (Downside, Sticky 2D-HMM)",Downside Semi-Covariance,Sticky 2D-HMM (Prior + Confidence Thresh),13.412750596158896,-14.222185643989743,0.9430864518230422,4,30.48376797065298

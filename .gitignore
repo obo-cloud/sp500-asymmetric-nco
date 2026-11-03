@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+arxiv_submission_paper2.tar.gz
+arxiv_submission_paper2.zip
+
+# Paper sources and build artifacts (not part of the code/data release)
+*.pdf
+*.png
+*.tex
+*.bib
+*.bst
+*.cls
+*.Rmd
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+page_*.png
+
+# Figures are published in their own directory (PNG only)
+!figures/
+!figures/*.png
