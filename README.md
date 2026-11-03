@@ -8,7 +8,6 @@ Code and data repository for the paper:
 **"Mitigating Return Drag and Regime Whipsaws in Sector Rotation: An Asymmetric Downside-Aware Nested Clustered Optimization Framework"**
 
 Author: Supriadi (COCONUT Computer Club, Makassar, Indonesia — supriadi@coconut.or.id)
-JEL Classification: G11, C58, C61, G14
 
 ---
 
