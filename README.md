@@ -1,9 +1,10 @@
 # Asymmetric Downside-Risk Nested Clustered Optimization (Asym-Sticky-NCO)
 
+[![arXiv](https://img.shields.io/badge/arXiv-2611.05310-b31b1b.svg)](https://arxiv.org/abs/2611.05310)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
-Code and data repository for the paper:
+Code and data repository for the paper (arXiv:2611.05310):
 
 **"Mitigating Return Drag and Regime Whipsaws in Sector Rotation: An Asymmetric Downside-Aware Nested Clustered Optimization Framework"**
 
@@ -132,7 +133,10 @@ If you use this work in your research, please cite the accompanying paper:
 @misc{supriadi2026mitigating,
   author = {Supriadi},
   title = {Mitigating Return Drag and Regime Whipsaws in Sector Rotation: An Asymmetric Downside-Aware Nested Clustered Optimization Framework},
-  year = {2026}
+  year = {2026},
+  eprint = {2611.05310},
+  archivePrefix = {arXiv},
+  primaryClass = {q-fin.PM}
 }
 ```
 
